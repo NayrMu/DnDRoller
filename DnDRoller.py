@@ -3,7 +3,7 @@ Ryan Muncy
 04/25/2023
 
 DnD Roller
-This program aims to automatically roll a 20 sided dice until it has enough results to make a character in DnD. Additional Functionality to auto-pick stats will be added based on user preference.
+This program uses the 4d6 drop the lowest method for rolling ability scores and then automatically assigns them based on the race and class given for the character.
 '''
 
 import random
