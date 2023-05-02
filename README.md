@@ -1,5 +1,5 @@
 # DnDRoller
- Generates character abilities given teh chracters race and class.
+ Generates character abilities given the chracters race and class.
 
 
 Hi and welcome to my first Github project. This is actually my second project in python and was a practice in learning 
